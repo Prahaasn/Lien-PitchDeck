@@ -1,0 +1,457 @@
+{
+"take": "03-prahaas",
+"words": [
+{
+"start": 5.97,
+"end": 6.45,
+"w": "Ahora"
+},
+{
+"start": 6.45,
+"end": 6.67,
+"w": "los"
+},
+{
+"start": 6.67,
+"end": 8.25,
+"w": "irregulares."
+},
+{
+"start": 10.7,
+"end": 11.18,
+"w": "Sí,"
+},
+{
+"start": 11.26,
+"end": 11.4,
+"w": "los"
+},
+{
+"start": 11.4,
+"end": 11.88,
+"w": "platos"
+},
+{
+"start": 11.88,
+"end": 12.38,
+"w": "es"
+},
+{
+"start": 12.38,
+"end": 12.56,
+"w": "la"
+},
+{
+"start": 12.56,
+"end": 13.14,
+"w": "quita."
+},
+{
+"start": 15.68,
+"end": 16.14,
+"w": "D"
+},
+{
+"start": 16.14,
+"end": 16.36,
+"w": "'ar,"
+},
+{
+"start": 16.58,
+"end": 16.78,
+"w": "se"
+},
+{
+"start": 16.78,
+"end": 16.88,
+"w": "siente."
+},
+{
+"start": 19.95,
+"end": 20.43,
+"w": "Y"
+},
+{
+"start": 20.43,
+"end": 20.67,
+"w": "C"
+},
+{
+"start": 20.67,
+"end": 20.79,
+"w": "'est,"
+},
+{
+"start": 20.95,
+"end": 21.17,
+"w": "se"
+},
+{
+"start": 21.17,
+"end": 21.37,
+"w": "siente."
+},
+{
+"start": 22.05,
+"end": 22.27,
+"w": "C"
+},
+{
+"start": 22.27,
+"end": 22.47,
+"w": "'est,"
+},
+{
+"start": 24.73,
+"end": 25.65,
+"w": "se"
+},
+{
+"start": 25.65,
+"end": 26.11,
+"w": "siente."
+},
+{
+"start": 27.73,
+"end": 28.21,
+"w": "Haber,"
+},
+{
+"start": 28.45,
+"end": 28.51,
+"w": "se"
+},
+{
+"start": 28.51,
+"end": 28.65,
+"w": "siente."
+},
+{
+"start": 30.01,
+"end": 30.49,
+"w": "S"
+},
+{
+"start": 30.49,
+"end": 30.69,
+"w": "'ar,"
+},
+{
+"start": 30.81,
+"end": 31.13,
+"w": "se"
+},
+{
+"start": 31.13,
+"end": 31.13,
+"w": "siente."
+},
+{
+"start": 32.63,
+"end": 33.11,
+"w": "Saber,"
+},
+{
+"start": 33.33,
+"end": 33.45,
+"w": "se"
+},
+{
+"start": 33.45,
+"end": 33.69,
+"w": "siente."
+},
+{
+"start": 34.97,
+"end": 35.95,
+"w": "Estos"
+},
+{
+"start": 35.95,
+"end": 36.41,
+"w": "verbos"
+},
+{
+"start": 36.41,
+"end": 36.73,
+"w": "son"
+},
+{
+"start": 36.73,
+"end": 36.93,
+"w": "los"
+},
+{
+"start": 36.93,
+"end": 37.67,
+"w": "regulares,"
+},
+{
+"start": 37.67,
+"end": 37.83,
+"w": "pero"
+},
+{
+"start": 37.83,
+"end": 37.97,
+"w": "es"
+},
+{
+"start": 37.97,
+"end": 38.25,
+"w": "fácil"
+},
+{
+"start": 38.25,
+"end": 38.69,
+"w": "si"
+},
+{
+"start": 38.69,
+"end": 39.43,
+"w": "practicas."
+},
+{
+"start": 40.15,
+"end": 40.63,
+"w": "Conocer"
+},
+{
+"start": 40.63,
+"end": 40.81,
+"w": "las"
+},
+{
+"start": 40.81,
+"end": 42.25,
+"w": "conjunciones."
+},
+{
+"start": 42.59,
+"end": 43.01,
+"w": "Y"
+},
+{
+"start": 43.01,
+"end": 43.09,
+"w": "tu"
+},
+{
+"start": 43.09,
+"end": 43.47,
+"w": "español"
+},
+{
+"start": 43.47,
+"end": 43.81,
+"w": "será"
+},
+{
+"start": 43.81,
+"end": 44.73,
+"w": "fantástico."
+},
+{
+"start": 46.72,
+"end": 47.7,
+"w": "Es"
+},
+{
+"start": 47.7,
+"end": 47.82,
+"w": "una"
+},
+{
+"start": 47.82,
+"end": 48.3,
+"w": "partida"
+},
+{
+"start": 48.3,
+"end": 48.46,
+"w": "de"
+},
+{
+"start": 48.46,
+"end": 48.54,
+"w": "la"
+},
+{
+"start": 48.54,
+"end": 49.14,
+"w": "USA."
+},
+{
+"start": 50.81,
+"end": 51.43,
+"w": "No"
+},
+{
+"start": 51.43,
+"end": 51.85,
+"w": "creo"
+},
+{
+"start": 51.85,
+"end": 52.49,
+"w": "que"
+},
+{
+"start": 52.49,
+"end": 52.99,
+"w": "sea"
+},
+{
+"start": 52.99,
+"end": 53.71,
+"w": "difícil"
+},
+{
+"start": 55.08,
+"end": 55.57,
+"w": "si"
+},
+{
+"start": 55.57,
+"end": 56.15,
+"w": "estud"
+},
+{
+"start": 56.15,
+"end": 56.33,
+"w": "cada"
+},
+{
+"start": 56.33,
+"end": 57.05,
+"w": "día."
+},
+{
+"start": 57.87,
+"end": 58.37,
+"w": "Ohala"
+},
+{
+"start": 58.37,
+"end": 58.65,
+"w": "que"
+},
+{
+"start": 58.65,
+"end": 59.37,
+"w": "recuerdan"
+},
+{
+"start": 60.17,
+"end": 60.87,
+"w": "todo"
+},
+{
+"start": 60.87,
+"end": 61.43,
+"w": "lo"
+},
+{
+"start": 61.43,
+"end": 61.79,
+"w": "que"
+},
+{
+"start": 61.79,
+"end": 62.11,
+"w": "damos."
+}
+],
+"segments": [
+{
+"start": 5.97,
+"end": 8.25,
+"text": "Ahora los irregulares."
+},
+{
+"start": 10.7,
+"end": 13.14,
+"text": "Sí, los platos es la quita."
+},
+{
+"start": 15.68,
+"end": 16.88,
+"text": "D'ar, se siente."
+},
+{
+"start": 19.95,
+"end": 21.37,
+"text": "Y C'est, se siente."
+},
+{
+"start": 22.05,
+"end": 26.11,
+"text": "C'est, se siente."
+},
+{
+"start": 27.73,
+"end": 28.65,
+"text": "Haber, se siente."
+},
+{
+"start": 30.01,
+"end": 31.13,
+"text": "S'ar, se siente."
+},
+{
+"start": 32.63,
+"end": 33.69,
+"text": "Saber, se siente."
+},
+{
+"start": 34.97,
+"end": 37.67,
+"text": "Estos verbos son los regulares,"
+},
+{
+"start": 37.67,
+"end": 39.43,
+"text": "pero es fácil si practicas."
+},
+{
+"start": 40.15,
+"end": 42.25,
+"text": "Conocer las conjunciones."
+},
+{
+"start": 42.59,
+"end": 44.73,
+"text": "Y tu español será fantástico."
+},
+{
+"start": 46.72,
+"end": 49.14,
+"text": "Es una partida de la USA."
+},
+{
+"start": 50.81,
+"end": 53.71,
+"text": "No creo que sea difícil"
+},
+{
+"start": 55.08,
+"end": 56.15,
+"text": "si estud"
+},
+{
+"start": 56.15,
+"end": 57.05,
+"text": "cada día."
+},
+{
+"start": 57.87,
+"end": 59.37,
+"text": "Ohala que recuerdan"
+},
+{
+"start": 60.17,
+"end": 62.11,
+"text": "todo lo que damos."
+}
+]
+}

@@ -1,0 +1,5 @@
+# Regenerable intermediates (recreated by build scripts)
+audio/stems/
+audio/align/stems/
+audio/analysis/
+audio/asr/*.wav

@@ -1,0 +1,522 @@
+{
+"take": "02-kanav",
+"words": [
+{
+"start": 5.74,
+"end": 6.24,
+"w": "Start"
+},
+{
+"start": 6.24,
+"end": 6.52,
+"w": "with"
+},
+{
+"start": 6.52,
+"end": 6.66,
+"w": "the"
+},
+{
+"start": 6.66,
+"end": 6.8,
+"w": "yellow"
+},
+{
+"start": 6.8,
+"end": 7.02,
+"w": "for"
+},
+{
+"start": 7.02,
+"end": 7.46,
+"w": "president"
+},
+{
+"start": 7.46,
+"end": 7.9,
+"w": "ticket"
+},
+{
+"start": 7.9,
+"end": 8.08,
+"w": "to"
+},
+{
+"start": 8.08,
+"end": 8.34,
+"w": "drop"
+},
+{
+"start": 8.34,
+"end": 8.52,
+"w": "the"
+},
+{
+"start": 8.52,
+"end": 8.78,
+"w": "or"
+},
+{
+"start": 8.78,
+"end": 9.36,
+"w": "right"
+},
+{
+"start": 9.36,
+"end": 9.98,
+"w": "now"
+},
+{
+"start": 9.98,
+"end": 10.72,
+"w": "now"
+},
+{
+"start": 10.72,
+"end": 11.06,
+"w": "make"
+},
+{
+"start": 11.06,
+"end": 12.04,
+"w": "subjuntive"
+},
+{
+"start": 12.04,
+"end": 12.36,
+"w": "AR"
+},
+{
+"start": 12.36,
+"end": 12.94,
+"w": "changes"
+},
+{
+"start": 12.94,
+"end": 13.74,
+"w": "into"
+},
+{
+"start": 13.74,
+"end": 14.04,
+"w": "e"
+},
+{
+"start": 14.04,
+"end": 14.22,
+"w": "like"
+},
+{
+"start": 14.22,
+"end": 14.58,
+"w": "habla"
+},
+{
+"start": 14.58,
+"end": 14.78,
+"w": "your"
+},
+{
+"start": 14.78,
+"end": 15.02,
+"w": "studio"
+},
+{
+"start": 15.02,
+"end": 16.14,
+"w": "er"
+},
+{
+"start": 16.14,
+"end": 16.42,
+"w": "and"
+},
+{
+"start": 16.42,
+"end": 16.78,
+"w": "ir"
+},
+{
+"start": 16.78,
+"end": 17.3,
+"w": "switched"
+},
+{
+"start": 17.3,
+"end": 17.64,
+"w": "to"
+},
+{
+"start": 17.64,
+"end": 18.02,
+"w": "a"
+},
+{
+"start": 18.02,
+"end": 18.78,
+"w": "coma"
+},
+{
+"start": 18.78,
+"end": 18.98,
+"w": "and"
+},
+{
+"start": 18.98,
+"end": 19.22,
+"w": "via"
+},
+{
+"start": 19.22,
+"end": 19.56,
+"w": "every"
+},
+{
+"start": 19.56,
+"end": 20.04,
+"w": "day"
+},
+{
+"start": 20.04,
+"end": 21.46,
+"w": "hablo"
+},
+{
+"start": 21.46,
+"end": 21.72,
+"w": "turns"
+},
+{
+"start": 21.72,
+"end": 22.04,
+"w": "into"
+},
+{
+"start": 22.04,
+"end": 22.78,
+"w": "habla"
+},
+{
+"start": 22.78,
+"end": 23.58,
+"w": "coma"
+},
+{
+"start": 23.58,
+"end": 24.06,
+"w": "changes"
+},
+{
+"start": 24.06,
+"end": 24.46,
+"w": "into"
+},
+{
+"start": 24.46,
+"end": 25.14,
+"w": "coma"
+},
+{
+"start": 25.14,
+"end": 26.4,
+"w": "viva"
+},
+{
+"start": 26.4,
+"end": 26.82,
+"w": "changes"
+},
+{
+"start": 26.82,
+"end": 27.02,
+"w": "in"
+},
+{
+"start": 27.02,
+"end": 27.1,
+"w": "a"
+},
+{
+"start": 27.1,
+"end": 27.98,
+"w": "viva"
+},
+{
+"start": 27.98,
+"end": 28.78,
+"w": "or"
+},
+{
+"start": 28.78,
+"end": 29.24,
+"w": "yellow"
+},
+{
+"start": 29.24,
+"end": 30.04,
+"w": "funciva"
+},
+{
+"start": 30.04,
+"end": 31.12,
+"w": "no"
+},
+{
+"start": 31.12,
+"end": 31.64,
+"w": "fax"
+},
+{
+"start": 31.64,
+"end": 32.42,
+"w": "uncertainty"
+},
+{
+"start": 32.42,
+"end": 33.26,
+"w": "that's"
+},
+{
+"start": 33.26,
+"end": 33.36,
+"w": "the"
+},
+{
+"start": 33.36,
+"end": 33.74,
+"w": "biggest"
+},
+{
+"start": 33.74,
+"end": 34.94,
+"w": "clue"
+},
+{
+"start": 34.94,
+"end": 35.88,
+"w": "there's"
+},
+{
+"start": 35.88,
+"end": 36.14,
+"w": "hope"
+},
+{
+"start": 36.14,
+"end": 36.32,
+"w": "or"
+},
+{
+"start": 36.32,
+"end": 37.12,
+"w": "emotion"
+},
+{
+"start": 37.12,
+"end": 38.24,
+"w": "subject"
+},
+{
+"start": 38.24,
+"end": 38.54,
+"w": "to"
+},
+{
+"start": 38.54,
+"end": 38.7,
+"w": "you"
+},
+{
+"start": 38.7,
+"end": 39.26,
+"w": "comes"
+},
+{
+"start": 39.26,
+"end": 39.84,
+"w": "through"
+},
+{
+"start": 39.84,
+"end": 40.74,
+"w": "autozela"
+},
+{
+"start": 40.74,
+"end": 41.1,
+"w": "gives"
+},
+{
+"start": 41.1,
+"end": 41.54,
+"w": "us"
+},
+{
+"start": 41.54,
+"end": 42.12,
+"w": "para"
+},
+{
+"start": 42.12,
+"end": 42.54,
+"w": "para"
+},
+{
+"start": 42.54,
+"end": 42.88,
+"w": "no"
+},
+{
+"start": 42.88,
+"end": 43.44,
+"w": "estudiar"
+},
+{
+"start": 43.44,
+"end": 43.94,
+"w": "usamos"
+},
+{
+"start": 43.94,
+"end": 44.22,
+"w": "son"
+},
+{
+"start": 44.22,
+"end": 44.9,
+"w": "trotivo"
+},
+{
+"start": 44.9,
+"end": 46.04,
+"w": "cuando"
+},
+{
+"start": 46.04,
+"end": 46.42,
+"w": "no"
+},
+{
+"start": 46.42,
+"end": 46.7,
+"w": "hay"
+},
+{
+"start": 46.7,
+"end": 47.58,
+"w": "realdad"
+},
+{
+"start": 47.58,
+"end": 48.64,
+"w": "whoa"
+},
+{
+"start": 48.64,
+"end": 49.44,
+"w": "oh"
+},
+{
+"start": 49.44,
+"end": 50.34,
+"w": "oh"
+},
+{
+"start": 50.34,
+"end": 50.62,
+"w": "oh"
+},
+{
+"start": 50.62,
+"end": 51.22,
+"w": "oh"
+},
+{
+"start": 51.22,
+"end": 51.52,
+"w": "oh"
+},
+{
+"start": 51.52,
+"end": 51.68,
+"w": "oh"
+},
+{
+"start": 51.68,
+"end": 51.98,
+"w": "no"
+},
+{
+"start": 51.98,
+"end": 52.3,
+"w": "no"
+},
+{
+"start": 52.3,
+"end": 52.84,
+"w": "the"
+},
+{
+"start": 52.84,
+"end": 53.1,
+"w": "way"
+},
+{
+"start": 53.1,
+"end": 53.46,
+"w": "subject"
+},
+{
+"start": 53.46,
+"end": 53.82,
+"w": "to"
+},
+{
+"start": 53.82,
+"end": 54.48,
+"w": "tivo"
+},
+{
+"start": 54.48,
+"end": 55.2,
+"w": "every"
+},
+{
+"start": 55.2,
+"end": 56.12,
+"w": "day"
+}
+],
+"segments": [
+{
+"start": 5.74,
+"end": 12.94,
+"text": "Start with the yellow for president ticket to drop the or right now now make subjuntive AR changes"
+},
+{
+"start": 12.94,
+"end": 22.78,
+"text": "into e like habla your studio er and ir switched to a coma and via every day hablo turns into habla"
+},
+{
+"start": 22.78,
+"end": 32.42,
+"text": "coma changes into coma viva changes in a viva or yellow funciva no fax uncertainty"
+},
+{
+"start": 32.42,
+"end": 39.84,
+"text": "that's the biggest clue there's hope or emotion subject to you comes through"
+},
+{
+"start": 39.84,
+"end": 50.62,
+"text": "autozela gives us para para no estudiar usamos son trotivo cuando no hay realdad whoa oh oh oh"
+},
+{
+"start": 50.62,
+"end": 56.12,
+"text": "oh oh oh no no the way subject to tivo every day"
+}
+]
+}

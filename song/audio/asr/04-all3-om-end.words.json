@@ -1,0 +1,367 @@
+{
+"take": "04-all3-om-end",
+"words": [
+{
+"start": 0.11,
+"end": 1.03,
+"w": "Emotion"
+},
+{
+"start": 1.03,
+"end": 1.53,
+"w": "step,"
+},
+{
+"start": 1.81,
+"end": 2.15,
+"w": "wind"
+},
+{
+"start": 2.15,
+"end": 2.69,
+"w": "wishes,"
+},
+{
+"start": 3.25,
+"end": 3.81,
+"w": "recommendations"
+},
+{
+"start": 3.81,
+"end": 4.49,
+"w": "too,"
+},
+{
+"start": 5.41,
+"end": 5.91,
+"w": "that's"
+},
+{
+"start": 5.91,
+"end": 6.43,
+"w": "exactly"
+},
+{
+"start": 6.43,
+"end": 7.11,
+"w": "why,"
+},
+{
+"start": 7.61,
+"end": 7.91,
+"w": "we"
+},
+{
+"start": 7.91,
+"end": 8.15,
+"w": "use"
+},
+{
+"start": 8.15,
+"end": 8.91,
+"w": "subjunctivo,"
+},
+{
+"start": 9.67,
+"end": 10.29,
+"w": "whoa,"
+},
+{
+"start": 11.11,
+"end": 11.73,
+"w": "whoa,"
+},
+{
+"start": 12.21,
+"end": 12.63,
+"w": "yeah,"
+},
+{
+"start": 12.89,
+"end": 13.25,
+"w": "yeah,"
+},
+{
+"start": 13.47,
+"end": 13.79,
+"w": "yeah,"
+},
+{
+"start": 14.43,
+"end": 15.51,
+"w": "subjunctivo"
+},
+{
+"start": 15.51,
+"end": 16.01,
+"w": "now,"
+},
+{
+"start": 17.4,
+"end": 17.62,
+"w": "so"
+},
+{
+"start": 17.62,
+"end": 17.78,
+"w": "we"
+},
+{
+"start": 17.78,
+"end": 17.96,
+"w": "put"
+},
+{
+"start": 17.96,
+"end": 18.1,
+"w": "our"
+},
+{
+"start": 18.1,
+"end": 18.7,
+"w": "verbs"
+},
+{
+"start": 18.7,
+"end": 19.04,
+"w": "up"
+},
+{
+"start": 19.04,
+"end": 19.26,
+"w": "and"
+},
+{
+"start": 19.26,
+"end": 19.5,
+"w": "now"
+},
+{
+"start": 19.5,
+"end": 19.88,
+"w": "we"
+},
+{
+"start": 19.88,
+"end": 20.3,
+"w": "know"
+},
+{
+"start": 20.3,
+"end": 20.72,
+"w": "the"
+},
+{
+"start": 20.72,
+"end": 21.08,
+"w": "rules"
+},
+{
+"start": 21.08,
+"end": 21.84,
+"w": "today,"
+},
+{
+"start": 22.42,
+"end": 23.02,
+"w": "using"
+},
+{
+"start": 23.02,
+"end": 23.64,
+"w": "subjunctivo"
+},
+{
+"start": 23.64,
+"end": 23.8,
+"w": "in"
+},
+{
+"start": 23.8,
+"end": 23.86,
+"w": "the"
+},
+{
+"start": 23.86,
+"end": 24.08,
+"w": "proper"
+},
+{
+"start": 24.08,
+"end": 24.52,
+"w": "way,"
+},
+{
+"start": 25.22,
+"end": 25.6,
+"w": "emotion"
+},
+{
+"start": 25.6,
+"end": 26.22,
+"w": "and"
+},
+{
+"start": 26.22,
+"end": 26.82,
+"w": "doubt,"
+},
+{
+"start": 27.24,
+"end": 27.7,
+"w": "recommendations"
+},
+{
+"start": 27.7,
+"end": 28.58,
+"w": "too,"
+},
+{
+"start": 28.74,
+"end": 28.84,
+"w": "when"
+},
+{
+"start": 28.84,
+"end": 29.36,
+"w": "something's"
+},
+{
+"start": 29.36,
+"end": 29.98,
+"w": "unsighted,"
+},
+{
+"start": 30.08,
+"end": 30.28,
+"w": "we"
+},
+{
+"start": 30.28,
+"end": 30.28,
+"w": "use"
+},
+{
+"start": 30.28,
+"end": 30.28,
+"w": "subjunct"
+},
+{
+"start": 30.28,
+"end": 31.06,
+"w": "subjunctivo"
+},
+{
+"start": 31.06,
+"end": 31.3,
+"w": "comes"
+},
+{
+"start": 31.3,
+"end": 31.78,
+"w": "through,"
+},
+{
+"start": 32.1,
+"end": 33.22,
+"w": "whoa,"
+},
+{
+"start": 33.38,
+"end": 33.86,
+"w": "whoa,"
+},
+{
+"start": 33.86,
+"end": 35.44,
+"w": "yeah,"
+},
+{
+"start": 35.76,
+"end": 36.08,
+"w": "yeah,"
+},
+{
+"start": 36.08,
+"end": 36.6,
+"w": "yeah,"
+},
+{
+"start": 36.6,
+"end": 37.72,
+"w": "now"
+},
+{
+"start": 37.72,
+"end": 38.36,
+"w": "we"
+},
+{
+"start": 38.36,
+"end": 39.1,
+"w": "understand,"
+},
+{
+"start": 39.74,
+"end": 40.24,
+"w": "whoa,"
+},
+{
+"start": 40.28,
+"end": 41.34,
+"w": "whoa,"
+},
+{
+"start": 41.64,
+"end": 43.7,
+"w": "subjunctivo"
+},
+{
+"start": 43.7,
+"end": 44.1,
+"w": "now,"
+},
+{
+"start": 44.54,
+"end": 44.74,
+"w": "yeah,"
+},
+{
+"start": 44.82,
+"end": 45.02,
+"w": "we"
+},
+{
+"start": 45.02,
+"end": 45.34,
+"w": "got"
+},
+{
+"start": 45.34,
+"end": 45.54,
+"w": "the"
+},
+{
+"start": 45.54,
+"end": 46.04,
+"w": "plan,"
+},
+{
+"start": 46.76,
+"end": 47.34,
+"w": "whoa"
+}
+],
+"segments": [
+{
+"start": 0.11,
+"end": 30.28,
+"text": "Emotion step, wind wishes, recommendations too, that's exactly why, we use subjunctivo, whoa, whoa, yeah, yeah, yeah, subjunctivo now, so we put our verbs up and now we know the rules today, using subjunctivo in the proper way, emotion and doubt, recommendations too, when something's unsighted, we use subjunct"
+},
+{
+"start": 30.28,
+"end": 47.34,
+"text": "subjunctivo comes through, whoa, whoa, yeah, yeah, yeah, now we understand, whoa, whoa, subjunctivo now, yeah, we got the plan, whoa"
+}
+]
+}
