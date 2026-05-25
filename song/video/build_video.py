@@ -9,9 +9,9 @@ waveform background.
 import os, subprocess
 
 HERE = os.path.dirname(__file__)
-AUDIO = os.path.join(HERE, "..", "audio", "output", "subjuntivo-draft6.mp3")
+AUDIO = os.path.join(HERE, "..", "audio", "output", "subjuntivo-draft7.mp3")
 ASS = os.path.join(HERE, "lyrics.ass")
-OUT = os.path.join(HERE, "subjuntivo-video.mp4")
+OUT = os.path.join(HERE, "subjuntivo-video-final.mp4")
 W, H = 1280, 720
 
 # Each part: span mapping (rec0,rec_end)->(tgt0,tgt1) and lines (rec_onset,text).
@@ -43,7 +43,7 @@ PARTS = [
    (43.4,"Usamos subjuntivo"),(44.9,"Cuando no hay realidad"),
    (47.6,"Whoa-oh-oh"),(50.3,"Whoa-oh-oh"),
    (51.7,"Now we know the way"),(53.1,"Subjuntivo every day")]},
- {"label":"PRAHAAS","spans":[(6.0,44.0),(50.8,62.3)],"tgt0":150,"tgt1":192,"lines":[
+ {"label":"PRAHAAS","spans":[(6.0,44.0),(50.8,62.3)],"tgt0":150,"tgt1":200,"lines":[
    (6.0,"Now the irregulars"),(10.7,"Yeah DISHES is the key"),
    (15.7,"Dar becomes dé"),(19.9,"And ser changes sea"),
    (22.1,"Ir becomes vaya"),(27.7,"Haber changes haya"),
@@ -52,7 +52,7 @@ PARTS = [
    (40.1,"Learn the conjugations"),(42.6,"And your Spanish will be fantastic"),
    (50.8,"No creo que sea difícil"),(55.1,"If you study every day"),
    (57.9,"Ojalá que recuerden"),(60.2,"Everything we say")]},
- {"label":"TODOS","spans":[(0.11,16.5)],"tgt0":192,"tgt1":206,"lines":[
+ {"label":"TODOS","spans":[(0.11,16.5)],"tgt0":200,"tgt1":217,"lines":[
    (0.11,"Emotion, doubt, and wishes"),(3.25,"Recommendations too"),
    (5.41,"That's exactly why"),(7.61,"We use subjuntivo"),
    (9.67,"Whoa-oh-oh"),(11.11,"Whoa-oh-oh"),
@@ -129,9 +129,10 @@ fc=(f"color=c=0x0A0E24:s={W}x{H}:d=207[base];"
     f"[base][wav]overlay=0:{H-180}[bg];"
     f"[bg]ass={ASS}[v]")
 subprocess.run(["ffmpeg","-hide_banner","-loglevel","error","-y","-i",AUDIO,
-    "-filter_complex",fc,"-map","[v]","-map","0:a","-t","207",
+    "-filter_complex",fc,"-map","[v]","-map","0:a","-t","222",
     "-c:v","libx264","-pix_fmt","yuv420p","-preset","medium","-crf","20",
     "-c:a","aac","-b:a","192k",OUT],check=True)
+
 print(f"Built {OUT}")
 print(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration",
     "-of","csv=p=0",OUT],capture_output=True,text=True).stdout.strip(),"sec")

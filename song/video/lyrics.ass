@@ -19,8 +19,8 @@ Dialogue: 0,0:00:00.30,0:00:07.80,Title,,0,0,0,,{\pos(640,300)\fad(400,500)}El S
 Dialogue: 0,0:00:00.30,0:00:07.80,Sub,,0,0,0,,{\pos(640,375)\fad(400,500)}"Party in the U.S.A."   ·   Prahaas · Kanav · Om
 Dialogue: 0,0:00:08.00,0:01:18.00,Label,,0,0,0,,{\pos(640,110)\fad(250,250)}OM
 Dialogue: 0,0:01:18.00,0:02:31.00,Label,,0,0,0,,{\pos(640,110)\fad(250,250)}KANAV
-Dialogue: 0,0:02:30.00,0:03:12.00,Label,,0,0,0,,{\pos(640,110)\fad(250,250)}PRAHAAS
-Dialogue: 0,0:03:12.00,0:03:26.00,Label,,0,0,0,,{\pos(640,110)\fad(250,250)}TODOS
+Dialogue: 0,0:02:30.00,0:03:20.00,Label,,0,0,0,,{\pos(640,110)\fad(250,250)}PRAHAAS
+Dialogue: 0,0:03:20.00,0:03:37.00,Label,,0,0,0,,{\pos(640,110)\fad(250,250)}TODOS
 Dialogue: 1,0:00:08.00,0:00:10.92,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf80}Yeah, {\kf66}it's {\kf146}subjuntivo
 Dialogue: 1,0:00:10.92,0:00:13.48,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf48}Used {\kf38}for {\kf57}doubt {\kf38}and {\kf76}emotion
 Dialogue: 1,0:00:13.48,0:00:17.80,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf104}Cuando {\kf179}something's {\kf149}uncertain
@@ -69,27 +69,27 @@ Dialogue: 1,0:02:19.42,0:02:23.38,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf
 Dialogue: 1,0:02:23.38,0:02:25.43,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf205}Whoa-oh-oh
 Dialogue: 1,0:02:25.43,0:02:27.48,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf41}Now {\kf31}we {\kf51}know {\kf41}the {\kf41}way
 Dialogue: 1,0:02:27.48,0:02:30.00,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf132}Subjuntivo {\kf72}every {\kf48}day
-Dialogue: 1,0:02:30.00,0:02:33.99,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf84}Now {\kf84}the {\kf231}irregulars
-Dialogue: 1,0:02:33.99,0:02:38.23,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf92}Yeah {\kf129}DISHES {\kf55}is {\kf74}the {\kf74}key
-Dialogue: 1,0:02:38.23,0:02:41.79,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf95}Dar {\kf190}becomes {\kf71}dé
-Dialogue: 1,0:02:41.79,0:02:43.66,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf37}And {\kf37}ser {\kf75}changes {\kf37}sea
-Dialogue: 1,0:02:43.66,0:02:48.41,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf89}Ir {\kf238}becomes {\kf148}vaya
-Dialogue: 1,0:02:48.41,0:02:50.36,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf62}Haber {\kf82}changes {\kf51}haya
-Dialogue: 1,0:02:50.36,0:02:52.57,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf78}Estar {\kf78}turns {\kf65}esté
-Dialogue: 1,0:02:52.57,0:02:54.61,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf64}Saber {\kf86}changes {\kf54}sepa
-Dialogue: 1,0:02:54.61,0:02:56.90,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf53}These {\kf53}verbs {\kf35}are {\kf88}irregular
-Dialogue: 1,0:02:56.90,0:02:58.93,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf33}But {\kf41}easy {\kf24}if {\kf33}you {\kf73}practice
-Dialogue: 1,0:02:58.93,0:03:01.05,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf55}Learn {\kf37}the {\kf120}conjugations
-Dialogue: 1,0:03:01.05,0:03:02.24,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf14}And {\kf17}your {\kf27}Spanish {\kf17}will {\kf10}be {\kf34}fantastic
-Dialogue: 1,0:03:02.24,0:03:05.89,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf46}No {\kf76}creo {\kf61}que {\kf61}sea {\kf122}difícil
-Dialogue: 1,0:03:05.89,0:03:08.27,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf31}If {\kf41}you {\kf62}study {\kf62}every {\kf41}day
-Dialogue: 1,0:03:08.27,0:03:10.22,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf59}Ojalá {\kf39}que {\kf98}recuerden
-Dialogue: 1,0:03:10.22,0:03:12.00,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf109}Everything {\kf30}we {\kf40}say
-Dialogue: 1,0:03:12.00,0:03:14.68,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf89}Emotion, {\kf70}doubt, {\kf40}and {\kf70}wishes
-Dialogue: 1,0:03:14.68,0:03:16.53,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf148}Recommendations {\kf37}too
-Dialogue: 1,0:03:16.53,0:03:18.41,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf69}That's {\kf79}exactly {\kf40}why
-Dialogue: 1,0:03:18.41,0:03:20.17,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf29}We {\kf39}use {\kf108}subjuntivo
-Dialogue: 1,0:03:20.17,0:03:21.40,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf123}Whoa-oh-oh
-Dialogue: 1,0:03:21.40,0:03:22.34,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf94}Whoa-oh-oh
-Dialogue: 1,0:03:22.34,0:03:24.23,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf67}Yeah, {\kf67}yeah, {\kf56}yeah
-Dialogue: 1,0:03:24.23,0:03:26.00,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf130}Subjuntivo {\kf47}now
+Dialogue: 1,0:02:30.00,0:02:34.75,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf100}Now {\kf100}the {\kf275}irregulars
+Dialogue: 1,0:02:34.75,0:02:39.80,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf110}Yeah {\kf154}DISHES {\kf66}is {\kf88}the {\kf88}key
+Dialogue: 1,0:02:39.80,0:02:44.04,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf113}Dar {\kf226}becomes {\kf85}dé
+Dialogue: 1,0:02:44.04,0:02:46.26,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf44}And {\kf44}ser {\kf89}changes {\kf44}sea
+Dialogue: 1,0:02:46.26,0:02:51.92,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf106}Ir {\kf283}becomes {\kf177}vaya
+Dialogue: 1,0:02:51.92,0:02:54.24,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf73}Haber {\kf98}changes {\kf61}haya
+Dialogue: 1,0:02:54.24,0:02:56.87,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf93}Estar {\kf93}turns {\kf77}esté
+Dialogue: 1,0:02:56.87,0:02:59.29,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf77}Saber {\kf102}changes {\kf64}sepa
+Dialogue: 1,0:02:59.29,0:03:02.02,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf63}These {\kf63}verbs {\kf42}are {\kf105}irregular
+Dialogue: 1,0:03:02.02,0:03:04.44,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf39}But {\kf48}easy {\kf29}if {\kf39}you {\kf87}practice
+Dialogue: 1,0:03:04.44,0:03:06.97,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf66}Learn {\kf44}the {\kf143}conjugations
+Dialogue: 1,0:03:06.97,0:03:08.38,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf16}And {\kf20}your {\kf32}Spanish {\kf20}will {\kf12}be {\kf40}fantastic
+Dialogue: 1,0:03:08.38,0:03:12.73,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf54}No {\kf90}creo {\kf72}que {\kf72}sea {\kf145}difícil
+Dialogue: 1,0:03:12.73,0:03:15.56,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf37}If {\kf49}you {\kf74}study {\kf74}every {\kf49}day
+Dialogue: 1,0:03:15.56,0:03:17.88,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf70}Ojalá {\kf46}que {\kf116}recuerden
+Dialogue: 1,0:03:17.88,0:03:20.00,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf130}Everything {\kf35}we {\kf47}say
+Dialogue: 1,0:03:20.00,0:03:23.26,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf109}Emotion, {\kf84}doubt, {\kf48}and {\kf84}wishes
+Dialogue: 1,0:03:23.26,0:03:25.50,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf179}Recommendations {\kf45}too
+Dialogue: 1,0:03:25.50,0:03:27.78,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf84}That's {\kf96}exactly {\kf48}why
+Dialogue: 1,0:03:27.78,0:03:29.92,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf36}We {\kf47}use {\kf131}subjuntivo
+Dialogue: 1,0:03:29.92,0:03:31.41,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf149}Whoa-oh-oh
+Dialogue: 1,0:03:31.41,0:03:32.55,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf114}Whoa-oh-oh
+Dialogue: 1,0:03:32.55,0:03:34.85,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf81}Yeah, {\kf81}yeah, {\kf68}yeah
+Dialogue: 1,0:03:34.85,0:03:37.00,Lyric,,0,0,0,,{\pos(640,380)\fad(150,150)}{\kf157}Subjuntivo {\kf57}now
